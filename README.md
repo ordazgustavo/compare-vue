@@ -1,6 +1,9 @@
-# compare-vue
+# CompareVue
+This project is a comparison between Angular, React and Vue.js. You can find the other projects here:
 
-> A Vue.js project
+[compare-angular](https://github.com/ordazgustavo/compare-angular)
+
+[compare-react](https://github.com/ordazgustavo/compare-react)
 
 ## Build Setup
 
